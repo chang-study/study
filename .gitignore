@@ -1,0 +1,4 @@
+*.o
+
+# binary
+design_pattern/strategy/miniDuckSimulator
